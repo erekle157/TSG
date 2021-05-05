@@ -1,0 +1,486 @@
+@media only screen and (mIN-width: 2560px) {
+    .mainS {
+        padding-left: 1000px;
+    }
+    
+    .midE {
+        width: 1190px;
+    }
+    
+    .partners {
+        width: 1130px;
+    }
+}
+
+@media only screen and (max-width: 1560px) {
+    .mainS {
+        padding-left: 600px;
+    }
+}
+@media only screen and (max-width: 1500px) {
+    .mainS {
+        padding-left: 550px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .aside {
+        width: 370px;
+    }
+    .mn .btn {
+        margin-left: 100px;
+    }
+    .language {
+        margin-top: 0px 
+    }
+    .mainS {
+        padding-left: 440px;
+    }
+    .conP {
+        flex-direction: column;
+    }
+} 
+
+@media only screen and (max-width: 1400px) {
+    .page-P {
+        font-family: book;
+        font-size: 13px;
+        padding-left: 122px;
+        width: 880px;
+    }
+    .ab-page img {
+        width: 715px;
+    }
+}
+@media only screen and (max-width: 1315px) {
+    .mainS {
+        padding-left: 350px;
+    }
+}
+
+
+@media only screen and (max-width: 1330px) {
+    .mainS {
+        padding-left: 410px;
+    }
+    .mis img {
+        width: 500px;
+    }
+    .midD {
+        width: 850px;
+    }
+    .midD:hover {
+        width: 880px;
+    }
+    .midS {
+        width: 830px;
+    }
+}
+
+
+
+@media only screen and (max-width: 1024px) {
+    .aside {
+        width: 300px;
+    }
+    .mn .btn {
+        margin-left: 65px;
+    }
+    .logo-1 {
+        margin-bottom: 80px;
+    }
+    .language {
+        margin-top: 40px 
+    }
+    .mainS {
+        padding-left: 330px;
+    }
+    .Fpic img {
+        width: 670px;
+    }
+    .STB img {
+        width: 65px;
+    }
+    .STB {
+        top: 130px;
+        left: 290px;
+    }
+    .CS img {
+        width: 380px;
+    }
+    .CP {
+        width: 400px;
+        top: 177px;
+        left: 215px;
+    }
+    .mis img {
+        width: 400px;
+    }
+    .proj img {
+        width: 400px;
+    }
+    .midD {
+        width: 665px;
+    }
+    .midS {
+        width: 665px;
+    }
+    #mid-topP {
+        width: 42rem;
+    }
+    .meP {
+        margin-right: 40px;
+    }
+    .pr1 {
+        margin-left: 50px;
+    }
+    .pr1 p {
+        font-size: 20px;
+    }
+    .arow8 img {
+        width: 80px;
+    }
+    .conP {
+        flex-direction: column;
+    }
+    .downB img {
+        width: 665px;
+    }
+    footer img {
+        margin-right: 50px
+    }
+}
+@media only screen and (max-width: 768px) {
+    .aside {
+        width: 300px;
+    }
+    .MP {
+        margin-top: 100px;
+    }
+    .midE {
+        margin-top: 100px;
+    }
+    .mn .btn {
+        margin-left: 95px;
+        font-size: 12px;
+    }
+    .logo-1 {
+        margin-bottom: 80px;
+    }
+    .language {
+        margin-top: 40px 
+    }
+    .mainS {
+        padding-left: 330px;
+    }
+    .Fpic img {
+        width: 410px;
+    }
+    .STB {
+        top: 75px;
+        left: 175px;
+    }
+    .STB img {
+        width: 65px;
+    }
+    .CS img {
+        width: 315px;
+    }
+    .CP {
+        width: 330px;
+        top: 140px;
+        left: 120px;
+    }
+    .mis img {
+        width: 270px;
+    }
+    .mip :first-child {
+        font-size: 14px
+    }
+    .mip h1 {
+        font-size: 20px;
+    }
+    .proj img {
+        width: 270px;
+    }
+    .midD {
+        width: 432px;
+    }
+    .midS {
+        width: 425px;
+    }
+    .mip :first-child {
+        margin-top: 45px;
+    }
+    .prod  {
+        height: 277px;
+    }
+    .prod img {
+        width: 195px;
+    }
+    .proAB {
+        display: none;
+    }
+    #mid-topP {
+        width: 30rem;
+        height: 377px;
+    }
+    .mide  {
+        flex-direction: column;
+    }
+    .mide h1 {
+        margin-top: 20px;
+    }
+    .meP {
+        margin-right: 40px;
+    }
+    .pr1 {
+        left: 277px;
+        margin-left: 10px;
+    }
+    .pr1 h1 {
+        margin-bottom: 35px;
+    }
+    .pr1 p {
+        font-size: 12px;
+    }
+    .partners img {
+        width: 210px;
+    }
+    .arow8 img {
+        width: 80px;
+    }
+    .contact {
+        flex-wrap: wrap;
+    }
+    .conP {
+        flex-direction: column;
+        width: 175px;
+    }
+    /* .conP img {
+        width: 49px;
+    } */
+    .downB img {
+        width: 410px;
+    }
+    .downB p {
+        margin-top: 100px
+    }
+    footer img {
+        margin-right: 50px
+    }
+}
+
+@media only screen and (min-width: 425px) {
+    .mobile {
+        display: none;
+        padding-left: 0px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .mainS {
+        padding-left: 20px;
+    }
+    .aside {
+        display: none;
+    }
+    .mobile{
+        display: flex;
+    }
+    .STB img {
+        width: 60px;
+    }
+    .CS img {
+        width: 393px;
+    }
+    .CP {
+        width: 368px;
+        top: 331px;
+        left: 12px;
+    }
+    
+    .midD {
+        width: 432px;
+        margin-top: 250px;
+    }
+    .midD {
+        width: 432px;
+        margin-top: 250px;
+        position: relative;
+    }
+    .mip {
+        background-color: white;
+        font-family: neue;
+        width: 251px;
+        height: 192px;
+        position: absolute;
+        left: -13px;
+        top: 35px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: baseline;
+        padding-left: 20px;
+        box-shadow: 0px 0px 16px 0px #171717;
+    }
+    .mis img {
+        width: 334px;
+        height: 320px;
+    }
+    .mip :first-child {
+        margin-top: 30px;
+    }
+    .mip h1 {
+        font-size: 24px;
+        margin-bottom: 0px;
+    }
+
+    .midE p {
+        font-size: 25px;
+    }
+    .midE {
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+    #mid-topP2.open {
+        max-height: 3100px;
+    }
+    #mid-topP2 {
+        max-height: 2060px;
+    }
+    #btn {
+        margin-left: 25%;
+    }
+    .midS {
+        width: 360px;
+        position: relative;
+    }
+    .midS .mip {
+        background-color: white;
+        font-family: neue;
+        width: 251px;
+        height: 147px;
+        position: absolute;
+        left: 130px;
+        top: 35px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: baseline;
+        padding-left: 35px;
+        box-shadow: 0px 0px 16px 0px #171717;
+    }
+    .prod img {
+        width: 152px;
+    }
+    #mid-topP {
+        width: 37rem;
+        height: 275px;
+    }
+    .prod:hover {
+        box-shadow: 5px 10px 18px #cacaca;
+        height: 260px;
+    }
+    .proAB {
+        display: none;
+    }
+    .projec {
+        position: relative;
+        overflow: initial;
+    }
+    .proj img {
+        width: 354px;
+    }
+    .pr1 {
+        margin-left: 10px;
+        padding-left: 20px;
+        width: 267px;
+        height: 198px;
+        position: absolute;
+        left: -18px;
+        top: 30px;
+        background-color: white;
+        box-shadow: 5px 10px 18px #171717;
+    }
+    .arow8 img {
+        width: 50px;
+    }
+    .pr1 p {
+        font-size: 16px;
+        font-family: neue;
+        margin-top: 20px;
+    }
+    .pr1 h1 {
+        margin-bottom: 45px;
+    }
+    .partners img {
+        width: 162px;
+    }
+    .conP {
+        width: 175px;
+        margin-right: 0;
+    }
+    .contact {
+        flex-wrap: wrap;
+    }
+    footer {
+        flex-direction: column-reverse;
+    }
+    footer p {
+        margin-top: 60px;
+    }
+    .meP {
+        DISPLAY: none;
+    }
+    .mide h1 {
+        display: none;
+    }
+    .mide h2 {
+        display: none;
+    }
+    .prod {
+        height: 210px;
+    }
+}
+
+
+@media only screen and (max-height: 841px) {
+    .logo-1 {
+        margin-bottom: 80px;
+    }
+    .language {
+        margin-top: 50px;
+    }
+    .damz {
+        margin-top: 50px;
+    }
+
+}
+@media only screen and (max-height: 800px) {
+    .logo-1 {
+        margin-bottom: 60px;
+    }
+    .language {
+        margin-top: 35px;
+    }
+    .damz {
+        margin-top: 50px;
+    }
+
+}
+@media only screen and (max-height: 750px) {
+    .logo-1 {
+        margin-bottom: 60px;
+    }
+    .language {
+        margin-top: 10px;
+    }
+    .damz {
+        margin-top: 50px;
+    }
+    .mn .btn {
+        margin-left: 142px;
+        font-size: 14px;
+    }
+}
+
